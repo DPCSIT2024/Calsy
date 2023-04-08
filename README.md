@@ -1,3 +1,10 @@
+Note 📝 :
+Do not use default chorme browser to open this site there are maybe some bug 😨
+but don't worry about it
+please use New Incognito window to open my and visit my site....
+u can also use to open this site another browser like Microsoft Edges it will work properly .......
+
+
 # Calsy
 This calculator can be use to perform Mathematical Operation like ➕(addition) ❌(multiplication) ➖ (subtraction) % (division)
 
