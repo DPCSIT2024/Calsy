@@ -5,6 +5,9 @@ This calculator can be use to perform Mathematical Operation like ➕(addition) 
 </div>
 <!-- CODING GIF -->
 <div align="center">
+<a href="https://dpcsit2024.github.io/Calsy/">Visit The calculator</a>
+</div>
+<div align="center">
 <img src="https://ik.imagekit.io/freshman/js-calculator/decimal-bug_QQiFGt0Cn26.gif">
 </div>
 
